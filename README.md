@@ -1,5 +1,4 @@
-# UbinV
-Phase 5: Enabling Broad Ecosystem Opportunities
+# Phase 5: Enabling Broad Ecosystem Opportunities
 
 Phase 5 was the final experimental phase of Project Ubin, and focused on proving value and building a foundation for future live pilots and trials by the industry.
 
